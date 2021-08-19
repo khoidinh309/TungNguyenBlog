@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Introduce on Tùng - Khởi</title>
+    <link>https://khoidinh309.github.io/TungNguyenBlog/categories/introduce/</link>
+    <description>Recent content in Introduce on Tùng - Khởi</description>
+    <image>
+      <url>https://khoidinh309.github.io/TungNguyenBlog/papermod-cover.png</url>
+      <link>https://khoidinh309.github.io/TungNguyenBlog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://khoidinh309.github.io/TungNguyenBlog/categories/introduce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khóa học chuẩn bị cho Kì thi THPT Quốc gia 2022</title>
+      <link>https://khoidinh309.github.io/TungNguyenBlog/posts/papermod/khoa-hoc.fr/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://khoidinh309.github.io/TungNguyenBlog/posts/papermod/khoa-hoc.fr/</guid>
+      <description>Giới thiệu tổng quan về hình thức và mục tiêu của khóa học.</description>
+    </item>
+    
+  </channel>
+</rss>

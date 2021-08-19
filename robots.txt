@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://khoidinh309.github.io/TungNguyenBlog/sitemap.xml
